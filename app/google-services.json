@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "967853569598",
+    "firebase_url": "https://smartderma-94e3d.firebaseio.com",
+    "project_id": "smartderma-94e3d",
+    "storage_bucket": "smartderma-94e3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967853569598:android:059db7a712a07780e5436f",
+        "android_client_info": {
+          "package_name": "com.example.smartderma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967853569598-7q8pvfptrmjqrq3u5uo2qj47od14uvv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDygawoPS5lqK66ovUQ8JRc_J3EmVPdhBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967853569598-7q8pvfptrmjqrq3u5uo2qj47od14uvv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
